@@ -35,12 +35,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrst-anuraghazru.vercel.app/api?username=Mie-Yamin&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrst-anuraghazru.vercel.app/api/top-langs/?username=Mie-Yamin&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/GitHub_Profile-Mie--Yamin-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/Focus-Cloud_%26_Web_Dev-blue?style=for-the-badge&logo=amazon-aws" alt="Focus" />
 </p>
