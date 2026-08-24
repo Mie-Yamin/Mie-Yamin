@@ -38,9 +38,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mie-Yamin&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mie-Yamin&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mie-Yamin&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mie-Yamin&layout=compact&theme=dark" alt="Top Languages" />
+</p>rname=Mie-Yamin&layout=compact&theme=dark" alt="Top Languages" />
 </p>
