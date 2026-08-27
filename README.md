@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Naurah Salsabila! 👋</h1>
 
 <p align="center">
-  <b>Software Engineering Student | Cloud Computing Enthusiast</b><br>
+  <b>Software Engineering Student | Cloud Computing Enthusiast | Web Development Enthusiast</b><br>
   Currently studying <b>Rekayasa Perangkat Lunak (Software Engineering)</b> at <b>SMKN 8 Jakarta</b>.
 </p>
 
