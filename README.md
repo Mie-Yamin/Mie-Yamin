@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 GitHub Overview
+### Connect With Me 🔗🔗
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub_Profile-Mie--Yamin-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
